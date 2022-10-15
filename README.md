@@ -6,15 +6,15 @@
 #### Requirements
 
 - Android 5.1+
-- Root (Magsik 23.0+)
+- Root (Magisk 23.0+)
 - Modules in /system/lib/modules/
 
 #### Features
-1. Dynamicly display availabale modules 
+1. Dynamically display available modules
 2. Insmod/Rmmod modules
 3. Detect active modules
-4. Detect if module loaded\unloaded successfully
-5. Insmod modules on boot
+4. Detect if module is loaded\unloaded successfully
+5. Load modules on boot
 
 
 #### Screenshots
